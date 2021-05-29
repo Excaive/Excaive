@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Excaive&count_private=true&show_icons=true" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Excaive&count_private=true&show_icons=true" />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Excaive&layout=compact" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Excaive&layout=compact" />
 
 <!--
 **Excaive/Excaive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
